@@ -7,7 +7,7 @@ description = "PDFの綴じ方向(R2L/L2R)を変更するmacOS GUIアプリ"
 
 [dependencies]
 lopdf = "0.42"
-eframe = "0.29"
+eframe = { version = "0.37", default-features = false, features = ["accesskit", "default_fonts", "glow", "wayland", "x11"] }
 rfd = "0.15"
 
 [profile.release]
