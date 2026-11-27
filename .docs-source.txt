@@ -1,3 +1,3 @@
 source: aon-co-jp/pdf-r2l-mac
-commit: 77a2aefff2566f4732e13cd88534303dd0532f2c
-updated: 2026-11-27T06:06:45Z
+commit: 7e481b6835384e19ecc6f44d7581fef052e4586f
+updated: 2026-11-27T06:11:46Z
